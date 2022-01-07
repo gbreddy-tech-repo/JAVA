@@ -1,4 +1,4 @@
-# DailyDSA
+# DailyDSAWithSPG
 This repository consists the solutions for daily solved DSA questions from #DailyDSAWithSPG challenge.
 
 My Goal: Solve at least one problem daily to keep away from interview fear, unemployement and to become a good problem solver.
@@ -10,8 +10,8 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 # JANUARY 2022
 
 
-| Day | Date       | Topic(s) | Difficulty | Problem(s)  | Solution 1 | Solution 2 |
-| --- |:----------:| -----:| ----------:| -----------:| ----------:| ----------:|
+| Day | Date       | Topic(s) | Difficulty | Problem(s)  | Solution 1 | Solution 2 | | Topics Learnt |
+| --- |:----------:| -----:| ----------:| -----------:| ----------:| ----------:| ----------:|
 | 1   | 01/01/2022 | Array | Easy ✅ | [TwoSum](https://leetcode.com/problems/two-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day1/TwoSum.java)
 | 2   | 02/01/2022 |  Array | Easy ✅ |  [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)<br/> [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)  | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day2/FindValueOfVariable.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day2/LeftRotate.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day2/LeftRotate1.java)
 | 3 |  03/01/2021 | Array,String | Easy ✅  | [Find Lucky Integer](https://leetcode.com/problems/find-lucky-integer-in-an-array/) <br/> [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day3/FindLuckyInteger.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day3/FirstUniqueCharacterInString.java) |  |
